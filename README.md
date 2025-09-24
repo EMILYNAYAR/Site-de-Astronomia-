@@ -1,7 +1,4 @@
-import { useState } from "react";
 
-const AstronomyWebsite = () => {
-  const [activePlanet, setActivePlanet] = useState<string | null>(null);
 
   return (
     <div className="min-h-screen bg-gray-900 text-white">
